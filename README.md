@@ -1,3 +1,37 @@
+# ReactApp_Tours_deploy
+
+## Web Store - Tickets, Tours & Attractions | 2022
+
+### { JavaScript | React.js | HTML 5 | CSS 3 | Axios | MockAPI | Vercel }
+
+Preview link: https://react-app-tours-deploy-2ofu-j5r7vy91v-kreved77.vercel.app
+
+## 
+
+The training project on React.js is mainly for learning concepts and the fundamentals of React, API implementation and deploying.
+
+
+**Implemented:** 
+
+• Vercel. Project was imported and deployed using Git Repository with Vercel for preview and get user experience.\
+• MockAPI. Provided mock up API, generated custom data and preform operations on it using RESTful interface.
+
+**Basic store functions:** 
+
+• Main page with preview Item cards (name, description, price);\
+• adding Item to Favourites; \
+• adding Item to Cart;\
+• making Order;\
+• view list of Favourites;\
+• view Cart;\
+• deleting items from Favourites and Cart;\
+• a customer request form for a Callback.
+
+## 
+As a beginner developer I'm looking forward new original ideas to create some fun projects.
+
+## 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +102,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
