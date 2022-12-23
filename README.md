@@ -28,7 +28,7 @@ The training project on React.js is mainly for learning concepts and the fundame
 • a customer request form for a Callback.
 
 ## 
-As a beginner developer I'm looking forward new original ideas to create some fun projects.
+As a beginner developer I'm looking forward new original ideas to create some functional/fun projects.
 
 ## 
 
